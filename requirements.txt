@@ -1,2 +1,5 @@
 Django==2.2
 djangorestframework
+#dev
+flake8
+black
