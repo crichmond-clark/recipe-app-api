@@ -7,7 +7,8 @@ name = "pypi"
 Django = "==2.2"
 djangorestframework = "*"
 
-[dev-packages]
 
+[dev-packages]
+flake8 = "==3.6.0"
 [requires]
 python_version = "3.7"
